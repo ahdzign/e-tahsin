@@ -1,0 +1,39 @@
+{
+  "name": "E-Tahsin",
+  "short_name": "E-Tahsin",
+  "scope": "https://e-tahsin.my.id",
+  "start_url": "https://e-tahsin.my.id",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "E-Tahsin adalah tempatnya belajar tahsin secara online",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjl85ahiXlROspdoNPmadZNVAGMuZymwFskG7f8_Q2xemOQYMMtGw7zZ24tUT49bMJmzjriIBmiqt9A2tN_9W-ZVctiWsK76gtkvdajLO3IVSWOCCnIBUqUBE-9exGfWdNF4M8QNoa7v_e-FDKU5igrLgxJZcr04x6WHdutFph1eLt0p9oUrigQeQajyA=s48",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjl85ahiXlROspdoNPmadZNVAGMuZymwFskG7f8_Q2xemOQYMMtGw7zZ24tUT49bMJmzjriIBmiqt9A2tN_9W-ZVctiWsK76gtkvdajLO3IVSWOCCnIBUqUBE-9exGfWdNF4M8QNoa7v_e-FDKU5igrLgxJZcr04x6WHdutFph1eLt0p9oUrigQeQajyA=s72",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjl85ahiXlROspdoNPmadZNVAGMuZymwFskG7f8_Q2xemOQYMMtGw7zZ24tUT49bMJmzjriIBmiqt9A2tN_9W-ZVctiWsK76gtkvdajLO3IVSWOCCnIBUqUBE-9exGfWdNF4M8QNoa7v_e-FDKU5igrLgxJZcr04x6WHdutFph1eLt0p9oUrigQeQajyA=s96",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjl85ahiXlROspdoNPmadZNVAGMuZymwFskG7f8_Q2xemOQYMMtGw7zZ24tUT49bMJmzjriIBmiqt9A2tN_9W-ZVctiWsK76gtkvdajLO3IVSWOCCnIBUqUBE-9exGfWdNF4M8QNoa7v_e-FDKU5igrLgxJZcr04x6WHdutFph1eLt0p9oUrigQeQajyA=s144",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjl85ahiXlROspdoNPmadZNVAGMuZymwFskG7f8_Q2xemOQYMMtGw7zZ24tUT49bMJmzjriIBmiqt9A2tN_9W-ZVctiWsK76gtkvdajLO3IVSWOCCnIBUqUBE-9exGfWdNF4M8QNoa7v_e-FDKU5igrLgxJZcr04x6WHdutFph1eLt0p9oUrigQeQajyA=s168",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjl85ahiXlROspdoNPmadZNVAGMuZymwFskG7f8_Q2xemOQYMMtGw7zZ24tUT49bMJmzjriIBmiqt9A2tN_9W-ZVctiWsK76gtkvdajLO3IVSWOCCnIBUqUBE-9exGfWdNF4M8QNoa7v_e-FDKU5igrLgxJZcr04x6WHdutFph1eLt0p9oUrigQeQajyA=s192",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjl85ahiXlROspdoNPmadZNVAGMuZymwFskG7f8_Q2xemOQYMMtGw7zZ24tUT49bMJmzjriIBmiqt9A2tN_9W-ZVctiWsK76gtkvdajLO3IVSWOCCnIBUqUBE-9exGfWdNF4M8QNoa7v_e-FDKU5igrLgxJZcr04x6WHdutFph1eLt0p9oUrigQeQajyA=s512",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
